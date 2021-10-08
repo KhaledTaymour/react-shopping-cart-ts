@@ -1,10 +1,26 @@
-# Getting Started with Create React App
+# Create React App using Typescript
+## Firstly
+```
+npx create-react-app --template typescript
+```
+## Libraries used
+- ### `Material UI`
+``` 
+npm i @material-ui/core @material-ui/icons 
+```
+- ### `react query`
+``` 
+npm i react-query 
+```
+- ### `styled-components`
+``` 
+npm i styled-components @types/styled-components
+```
+---
+## Before npm start
+I removed unused boilerplate code & files 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+---
 
 ### `npm start`
 
