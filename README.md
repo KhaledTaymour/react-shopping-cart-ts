@@ -22,6 +22,9 @@ I removed unused boilerplate code & files
 
 ---
 
+## Data
+Comes from https://fakestoreapi.com/
+
 ## Application Screenshots
 
 |   |   |
