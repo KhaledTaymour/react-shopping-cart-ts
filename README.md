@@ -29,3 +29,4 @@ I removed unused boilerplate code & files
 | ![Application Preview](https://github.com/KhaledTaymour/react-shopping-cart-ts/blob/master/src/assets/screenshots/screenshot1.PNG?raw=true)  | ![Application Preview](https://github.com/KhaledTaymour/react-shopping-cart-ts/blob/master/src/assets/screenshots/screenshot2.PNG?raw=true)  |
 |  |  |
 
+Built based upon https://www.youtube.com/watch?v=sfmL6bGbiN8&list=WL&index=3
