@@ -1,7 +1,7 @@
 # Create React App using Typescript
 ## Firstly
 ```
-npx create-react-app --template typescript
+npx create-react-app . --template typescript
 ```
 ## Libraries used
 - ### `Material UI`
